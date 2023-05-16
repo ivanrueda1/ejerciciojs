@@ -38,3 +38,14 @@
 ## Empezamos este ejercicio implementando un titulo y un texto en el index
 
 ![toggle](toggle.png "toggle")
+
+# Script
+
+## Primero en la carpeta script definimos las variables con el index , luego con onclick definimos que se va a ejecutar cada vez que nosotros demos click, luego con la variable (class.list) le decimos que nos enliste todas las clases que tenga en ese container y ubicarlas en el toggle, luego con la variable (active) podemos registrar en css, para no tener que hacerlo en el index
+
+# Vamos con el css
+
+## Empezamos incorporando el tipo, luego en el container acomodamos el alto y el ancho, pero lo dejamos en 0,luego vamos manipulando el codigo para que se expanda al darle click, insertamos los colores, todo los relacionado con el diseño, padding, los pixeles(width,height,display,background-color,transition entre otros.) y ya hecho el css quedaria de esta manera.
+
+![toggle](toggle.png "toggle")
+
