@@ -47,5 +47,5 @@
 
 ## Empezamos incorporando el tipo, luego en el container acomodamos el alto y el ancho, pero lo dejamos en 0,luego vamos manipulando el codigo para que se expanda al darle click, insertamos los colores, todo los relacionado con el diseño, padding, los pixeles(width,height,display,background-color,transition entre otros.) y ya hecho el css quedaria de esta manera.
 
-![toggle](toggle.png "toggle")
+![toggle](tog1.png "toggle")
 
